@@ -37,7 +37,8 @@ built specifically to go past "it works":
    structure spec as a future SEO page, not required for this trial. Built
    anyway because a city × level grid answers "where should I be looking"
    faster than any filtered table can. It's also featured directly on the
-   homepage as a real, working preview (`src/components/features/heatmap-preview.tsx`)
+   homepage as a real, working preview (`src/components/features/heatmap-preview.tsx`)<img width="1867" height="900" alt="Screenshot 2026-06-23 220328" src="https://github.com/user-attachments/assets/06bf9140-8c6d-4f32-b0f6-bd477a37ff67" />
+
 
    rather than a card linking to a page you have to click into blind.
 2. **Real charts, not CSS bars.** The company page's level breakdown is a
